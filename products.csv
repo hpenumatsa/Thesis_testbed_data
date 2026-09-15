@@ -1,4 +1,4 @@
-﻿"ProductId","ProductName","Category","UnitCost","UnitPrice","Discontinued"
+﻿"ProductId","ProductName","Category","UnitCost","UnitPrice_v2","Discontinued"
 "1","Product_001","Services","177.43","235.98","FALSE"
 "2","Product_002","Consumables","106.44","160.72","FALSE"
 "3","Product_003","Services","80.09","128.14","FALSE"
