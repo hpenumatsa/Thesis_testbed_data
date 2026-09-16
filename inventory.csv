@@ -1,4 +1,4 @@
-﻿"InventoryId","ProductId","WarehouseId","QtyOnHand","ReorderPoint","LastCounted"
+﻿"InventoryId","ProductId_v2","WarehouseId","QtyOnHand","ReorderPoint","LastCounted"
 "1","200","6","722","85","2026-05-07"
 "2","88","1","4070","389","2026-06-18"
 "3","188","6","463","213","2026-04-14"
