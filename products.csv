@@ -49,8 +49,6 @@
 "48","Product_048","Hardware","404.73","489.72","FALSE"
 "49","Product_049","Hardware","635.82","794.78","FALSE"
 "50","Product_050","Consumables","175.76","284.73","TRUE"
-this,is,a,broken,row,with,too,many,fields
-short,row
 "51","Product_051","Consumables","864.07","1365.23","FALSE"
 "52","Product_052","Services","463.9","616.99","FALSE"
 "53","Product_053","Services","869.64","1287.07","FALSE"
